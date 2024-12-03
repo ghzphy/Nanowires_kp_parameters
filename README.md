@@ -1,9 +1,10 @@
 # Nanowires_kp_parameters
 
-MATLAB Codes
-3nm/
-4nm/
-5nm/
+### MATLAB Codes
 
-Python Codes
-Pytorch
+#### 3nm/
+#### 4nm/
+#### 5nm/
+
+### Python Codes:
+#### Pytorch/
